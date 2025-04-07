@@ -52,6 +52,10 @@
   --contrast-color: #ffffff;
 }
 
+li{
+  width: 180px;
+}
+
 /* Smooth scroll */
 :root {
   scroll-behavior: smooth;
